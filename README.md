@@ -48,4 +48,5 @@ Most Sold Product: Mouse
 Graphical Output:
 
 Author
-[kajol-sarker] - [Your GitHub Profile URL or LinkedIn Profile URL]
+[kajol-sarker] - [https://github.com/kajol-sarker]
+
